@@ -1,42 +1,57 @@
 .body{
     background-color: #e6e3db;
-}
-.navbar ul{
+ }
+ 
+ 
+ .hope{
+    color: #f3e7cf;
+    border: #294763 solid;
+    padding: 12px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ 
+ .navbar ul{
     list-style-type: none;
     background-color: #4a78a2;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
-}
-.navbar a{
+    height: 100px;
+ }
+ .navbar a{
     color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-decoration: none;
-    padding: 15px;
+    padding: 40px;
     display: block;
     text-align: center;
     display: flex;
     justify-content: center;
-    align-items: space-evenly;
-}
-.navbar a:hover{
+    align-items: space-between;
+ }
+ .navbar a:hover{
     background-color:  #294763;
-}
-
-.navbar li{
+ }
+ 
+ 
+ .navbar li{
     float: left;
-}
-.square{
+ }
+ .square{
     justify-self: end;
     width: 540px;
     height: 314px;
-    background-color: #f76746 ; 
+    background-color: #f76746 ;
     border-radius: 27px;
-}
-
-.square2{
+ }
+ 
+ 
+ .square2{
     justify-self: end;
     width: 540px;
     height: 314px;
-    background-color: #a6ce6f ; 
+    background-color: #a6ce6f ;
     border-radius: 27px;
-}
+ }
+ 
