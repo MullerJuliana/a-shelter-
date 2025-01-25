@@ -25,3 +25,18 @@
 .navbar li{
     float: left;
 }
+.square{
+    justify-self: end;
+    width: 540px;
+    height: 314px;
+    background-color: #f76746 ; 
+    border-radius: 27px;
+}
+
+.square2{
+    justify-self: end;
+    width: 540px;
+    height: 314px;
+    background-color: #a6ce6f ; 
+    border-radius: 27px;
+}
